@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(260deg);
+  cursor: pointer;
+}
+
+
+input[type="date"]::-moz-calendar-picker-indicator {
+  filter: invert(50%) sepia(100%) saturate(500%) hue-rotate(260deg);
+  cursor: pointer;
+}
