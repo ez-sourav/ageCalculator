@@ -10,7 +10,7 @@ It allows users to enter their date of birth and instantly calculates:
 - Real-time validation  
 - Smooth UX
 
-👉 **Live Demo:** https://ez-sourav.github.io/ageCalculator/  
+👉 **Live Demo:** https://agecalculator-04.vercel.app/  
 *(Press Ctrl + Click to open in a new tab)*
 ---
 
